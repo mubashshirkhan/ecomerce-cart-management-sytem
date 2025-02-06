@@ -11,5 +11,6 @@ else :
     print('Not in product list')
 
 def export_selected_product_data():
+    colour=""
     data = {colour: data['colour'], productName: data['name']}
     return data

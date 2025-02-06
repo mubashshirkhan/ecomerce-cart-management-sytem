@@ -1,5 +1,6 @@
 {
   "name": "T Shirt",
+  "company": "Zara",
   "colour": ["red", "green", "yellow", "pink", "black"],
   "green-tshirt": {
     "sizexs": "XS",
